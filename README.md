@@ -27,9 +27,9 @@ ISC
 
 
 ## Images:
-![alt text]()
-![alt text]()
-![alt text]()
+![alt text](examples\triangle-logo.png)
+![alt text](examples\square-logo.png)
+![alt text](examples\circle-logo.png)
 
 ## ____________________________________________________________________
 
@@ -38,4 +38,7 @@ ISC
 ## GitHub: 
 https://github.com/JLH-Owner/svg-logo-maker
 
-## Demonstration Video: 
+## Demonstration Video:
+
+https://www.awesomescreenshot.com/video/29751613?key=8764012d5af917280e169790722dd780
+
